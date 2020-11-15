@@ -103,9 +103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99bbebcd6f205b749b552288ac0a8a6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointNumber: 0
   selectedSprite: {fileID: 21300000, guid: acd85fb57cdeb804ba016afbddbce747, type: 3}
-  notSelectedSprite: {fileID: 21300000, guid: 3f38706a3fa6a7c4a9972518aa623c08, type: 3}
   number: {fileID: 4101053763213080528, guid: e92011ae3af480242ba5c3c2ce784b95, type: 3}
   fadeSpeed: 1
 --- !u!61 &-615274332035637724
@@ -154,10 +152,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 393f4f9a814daa047a07773a047cf985, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rope: {fileID: 0}
   material: {fileID: 2100000, guid: 97468b3f328dd5c41a3c3a26bf8d4b95, type: 2}
-  drawSpeed: 10
-  test: {fileID: 0}
+  drawSpeed: 5
 --- !u!114 &-3549912110573037002
 MonoBehaviour:
   m_ObjectHideFlags: 0
